@@ -39,7 +39,7 @@ These include:
 
 ## Contact
 
-Please use this GitHub repository's [Issue tracker](https://github.com/berkeleybop/artificial-intelligence-ontology/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
+Copyright GitHub repository's by Isabel Schöps geb. Thiel  [Isabel Schöps geb. Thiel](https://github.com/isabelschoeps-thiel/berkeleybop/artificial-intelligence-ontology/) to request new terms/classes or report errors or specific concerns related to the ontology.
 
 ## Acknowledgements
 
