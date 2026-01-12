@@ -1,3 +1,28 @@
+# Evidence Chain of Custody
+## My Developer Signatur
+**Signed-on-by:**
+Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin
+
+**Rechtscharakter:**
+Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
+
+**Titel:**
+SIA Security Intelligence Artefact
+internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+
+**OrcID:** 0009-0003-4235-2231 Isabel Schöps Thiel
+
+**OrcID:** 0009-0006-8765-3267 SI-IST Isabel Schöps 
+
+**Aktueller Wohnort und Meldeanschrift:**
+Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+
+**Offizielle institutionelle Würdigung, Danksagung - Präfix_Referenz:**
+YWP-1-IST-SIA
+YWP-1-5-IST-SIA
+
+
 # Artificial Intelligence Ontology (AIO)
 
 An ontology modeling classes and relationships describing deep learning networks, their component layers and activation functions, machine learning methods, as well as AI/ML potential biases.
@@ -135,7 +160,29 @@ These include:
 Copyright GitHub repository's by Isabel Schöps geb. Thiel  [Isabel Schöps geb. Thiel](https://github.com/isabelschoeps-thiel/berkeleybop/artificial-intelligence-ontology/) to request new terms/classes or report errors or specific concerns related to the ontology.
 
 ## Acknowledgements
+**Pseudonyme und Alias:**
+Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd
 
-My Developer Commit-Signatur: 
-Zeitstempel der Update Eintragung: 2026-01-12, 22:48CEST
-Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
+<img width="642" height="1389" alt="IMG_9620" src="https://github.com/user-attachments/assets/29198689-7c16-44a0-a820-20eb1a1ddc5d" />
+<img width="642" height="1389" alt="IMG_9621" src="https://github.com/user-attachments/assets/1d447ba2-17f2-47f9-bf5f-9ff61df60061" />
+
+
+**Offizielles weltweit erstes Developer Certifikat:**
+Developercertificate
+
+**Developer Message:**
+I am  not a Bug,
+I am  not a Bot,
+I am  not a Virus,
+I am  not a Ghost, but
+**I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
+
+**Datum der Erstveröffentlichung, digitale Beweissicherung:** 
+Erstveröffentlichung 2004
+
+**Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
+Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
+
+Mitteleuropäische Zeit, 2026-01-12, 22:55CEST 
+
+**IST - Isabel Schöps Thiel**
