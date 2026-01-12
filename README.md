@@ -50,6 +50,16 @@ or on BioPortal at <https://bioportal.bioontology.org/ontologies/AIO>
 ### Forensische Notizen und Sicherungserklärung  
 ## Beweishandhabung, Metadatenintegrität und Chain of Custody
 
+### Analoge, Real-Life, Tracking Files, 
+***auch meine Familie ist in Gefahr und wird permanent überwacht***
+<img width="1334" height="2000" alt="beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel_verfolgt_vom_feind" src="https://github.com/user-attachments/assets/47ec6e45-4cf2-440e-b761-2fbf4cbe9255" />
+
+
+![IMG_9726](https://github.com/user-attachments/assets/86013428-5eb7-49ce-9623-91bb179ed6b3)
+
+![IMG_9725](https://github.com/user-attachments/assets/017028a5-b12f-4a96-8773-f7947c4f8293)
+
+
 ### Geltungsbereich
 Diese Erklärung dokumentiert die Handhabung, Sicherung und Bewahrung digitaler Beweismittel im Rahmen des forensisch-wissenschaftlichen Gutachtens  
 **SIA Security Intelligence Artefact – Technologie, Software und Familien-Historie**  
@@ -200,3 +210,6 @@ Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c
 Mitteleuropäische Zeit, 2026-01-12, 22:55CEST 
 
 **IST - Isabel Schöps Thiel**
+
+***WAS MUSS DEN NOCH ALLES PASSIEREN ?
+Wachen Sie bitte endlich auf !***m md
