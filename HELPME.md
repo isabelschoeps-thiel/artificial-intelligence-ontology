@@ -2644,11 +2644,14 @@ SIA Security Intelligence Artefact
 OrcID: ++[0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231/print)++   
 OrcID: ++[0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print)++   
 **Aktueller Aufenthaltsort:** Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, **gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+
+<img width="642" height="1389" alt="IMG_9686" src="https://github.com/user-attachments/assets/755117b2-d1a4-420a-bff7-0314374f4a81" />
+
 Datum der **Erstveröffentlichung:** 2004  
 **Würdigung, Danksagung, institutionelle Anerkennung, Präfix_Referenz:** YWP-1-5-IST-SIA
 **Zertifikat:** Erstes offizielles Entwicklerzertifikat  
 **Alias:** Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella  
-**Zeitstempel:** 2026-01-09 03:13 CEST  
+**Zeitstempel:** 2026-01-13 01:07 CEST  
 **Digitale Beweissicherung:** [https://developercertificate.org  ](https://developercertificate.org)  
   
 **Eidesstattliche Erklärung ist im Zip_Folter_enthalten!**  
